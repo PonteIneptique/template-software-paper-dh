@@ -1,0 +1,81 @@
+\documentclass[twocolumn]{article}
+\usepackage[utf8]{inputenc}
+
+\title{Template Software Paper in DH}
+
+\author{
+  Clérice, Thibault\\
+  \texttt{thibault.clerice@chartes.psl.eu}
+  \and
+  Cayless, Hugh\\
+  \texttt{----}
+}
+\date{February 2021 - Today}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+
+\begin{document}
+
+\maketitle
+
+\textit{The following document is an attempt at providing a template for Software Paper in the Digital Humanities. It was inspired by the JOSS guidelines\footnote{https://joss.readthedocs.io\/en\/latest\/submitting.html\#what-should-my-paper-contain }}.
+
+\section{Summary}
+
+Small summary for the paper / software. Including a link to an open-source repo ?
+
+\section{Introduction}
+
+\subsection{Context}
+\label{context}
+Project(s) using the software. Scholarly background. Development history (if not a new project). What needs does the software address?
+
+\subsection{Purpose of the software}
+Main goal and global functionality of the software. How does the software address the needs outlined in \ref{context}?
+
+\subsection{Similar tools}
+
+Are any tools in competition with this one? What does this tool offer that differentiates it?
+
+\section{Novelty and important functionalities}
+
+Discuss any new or significant features the software provides
+
+\subsection{Functionality 1}
+
+Pictures are always welcome.
+
+\subsection{Functionality 2}
+
+\section{Missing features and difficulties}
+
+Area where the developer may express regrets. Areas for future development. User feedback. Did the development effort fail? Why? 
+
+\section{Good practices}
+
+Tests and what not ? Might only be a part of the reviewing though. Difficulties in testing the software might be mentioned here ?
+
+\section{Development stacks, Licence and Recommendations}
+
+Not a very verbose area, except for recommendations potentially ? Language, (main) libraries.
+
+Recommendations is targeted at
+
+\begin{itemize}
+    \item How you should probably deploy the tool
+    \item How you might learn the tool the easiest way
+    \item Etc.
+\end{itemize}
+
+\section{Acknowledgments}
+
+Minor Collaborators (beta-testers ? QA ?) that should be acknowledged but might not be writting the paper.
+
+\section{Fundings}
+
+Self-explanatory. Might expand onto long-term questions: until when is this tool funded, how does its future look like ?
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
