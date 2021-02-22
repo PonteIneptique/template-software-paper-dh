@@ -1,5 +1,6 @@
-# template-software-paper-dh
-Attempt at creating a discussion or creating a template for Software Paper in DH
+#Template for Software Papers in DH
+
+The following document is an attempt at providinga template for Software Paper in the Digital Humanities. [Check the tex](template.tex)
 
 ## Source / Inspiration
 Inspiration for the template:
