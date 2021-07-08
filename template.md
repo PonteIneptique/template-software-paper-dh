@@ -48,7 +48,7 @@ Difficulties in testing the software might be mentioned here ?
 
 ## Development stacks, Licence and Recommandations
 
-Not a very verbose area, except for recommandations potentially ? Language, (main) libraries.
+Not a very verbose area, except for recommandations potentially ? Language, (main) libraries. Might best be dealt with as a fact sheet listing software, language, versions thereof.
 
 Recommandations is targeted at
 
